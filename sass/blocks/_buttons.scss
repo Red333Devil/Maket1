@@ -1,0 +1,17 @@
+.button {
+    display: block;
+    margin: 0 auto;
+    width: 293px;
+    height: 70px;
+    border-radius: 4px;
+    background-color: #eb7d4b;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    border: none;
+
+    &_green {
+        background-color: #17c2a4;
+    }
+}
+      

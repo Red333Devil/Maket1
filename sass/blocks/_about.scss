@@ -1,0 +1,45 @@
+.about {
+    min-height: 895px;
+    background-color: #d74680;
+    padding: 119px 0 129px 0;
+    
+    &__wrapper {
+        
+    }
+
+    &__round {
+        width: 96px;
+        height: 96px;
+        background-color: #787878;
+        border-radius: 50%;
+    }
+
+    &__descr {
+        font-size: 21px;
+        font-weight: 400;
+        font-style: italic;
+        line-height: 1.48;
+        letter-spacing: 0.42px;
+        text-align: left;
+        color: #fff;
+        }
+
+    &__title {
+        font-size: 24px;
+        font-weight: 700;
+        text-align: left;
+        color: #fff;
+        text-transform: uppercase;
+        }
+
+    &__subtitle {
+        font-size: 18px;
+        font-weight: 400;
+        text-align: left;
+        color: #fd9;
+    }
+}
+
+
+
+

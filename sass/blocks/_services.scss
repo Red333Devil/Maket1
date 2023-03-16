@@ -1,0 +1,36 @@
+.services {
+    min-height: 747px;
+    background-color: #17c2a4;
+    padding: 119px 0 128px 0;
+    &__wrapper {
+      display: flex;
+      margin-top: 80px;
+      justify-content: space-between;
+      
+    }
+    &__title {
+      font-size: 24px;
+      font-weight: 700;
+      color: #fff;
+      margin-top: 56px;
+      text-align: center;
+      text-transform: uppercase;
+      }
+    &__subtitle {
+      font-size: 16px;
+      font-weight: 300;
+      line-height: 1.5;
+      text-align: center;
+      color: #fff;
+      margin-top: 27px;
+      }
+    &__icon {
+      text-align: center;
+    }
+    &__item {
+      width: 197px;
+      
+    }
+    }
+    
+      

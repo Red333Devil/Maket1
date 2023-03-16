@@ -1,0 +1,47 @@
+.portfolio {
+    min-height: 1423px;
+    background-color: #fd9;
+    padding: 120px 0 109px 0;
+
+    &__menu {
+        display: flex;
+        justify-content: center;
+        margin-top: 42px;
+
+    }
+
+    &__button {
+        margin-right: 10px;
+        width: 84px;
+        height: 38px;
+        border-radius: 4px;
+        background-color: #ebc985;
+        border: none;
+        font-size: 18px;
+        font-weight: 400;
+        text-align: center;
+        color: #393939;
+        text-transform: uppercase;
+        &:hover {
+            background-color: #fff;
+        }
+    }
+
+    &__wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 62px;
+    }
+
+    &__title {
+        margin-top: 32px;
+        margin-bottom: 64px;
+        font-size: 18px;
+        text-align: center;
+        color: #393939;
+        text-transform: uppercase;
+    }
+}
+
+

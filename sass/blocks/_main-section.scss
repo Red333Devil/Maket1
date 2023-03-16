@@ -1,0 +1,54 @@
+.main-section {
+    min-height: 596px;
+    background-color: #87509c;
+    padding: 57px 0 145px 0;
+    &__title {
+        margin: 145px 0 54px 0;
+        font-size: 42px;
+        font-weight: 700;
+        line-height: 1.17;
+        text-align: center;
+        color: #f7f3ea;
+          }
+    }
+
+.header {
+        display: flex;
+        justify-content: space-between;
+    &__list {
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    &__item {
+            padding-right: 43px;
+            font-size: 16px;
+            font-weight: 400;
+            color: #fff;
+            text-transform: uppercase;
+            list-style-type: none;
+            
+           
+            
+          }
+    &__link {
+        display: block;
+        width: 100%;
+        cursor: pointer;
+        color: #fff;
+        &:hover {
+            text-decoration: none;
+            color:#fff;
+            background-color: #643a79;
+              }
+        }
+        
+    }
+    
+
+        
+        
+    
+    
+
+

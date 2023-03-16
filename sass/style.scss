@@ -1,0 +1,19 @@
+* {
+    font-family: Titillium Web, sans-serif;
+}
+
+.container {
+    max-width:1120px;
+    margin: 0 auto;
+}
+
+@import '../sass/blocks/main-section';
+@import '../sass/blocks/buttons';
+@import '../sass/blocks/services';
+@import '../sass/blocks/titles';
+@import '../sass/blocks/deviders';
+@import '../sass/blocks/subtitles';
+@import '../sass/blocks/team';
+@import '../sass/blocks/skills';
+@import '../sass/blocks/portfolio';
+@import '../sass/blocks/about';
